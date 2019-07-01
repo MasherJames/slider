@@ -8,12 +8,9 @@ body {
     margin: 0px auto;
 }
 
-.carousel {
-    display: flex;
-}
-
 .img {
     width: 5rem;
+    display: flex;
 }
 
 .carousel {
